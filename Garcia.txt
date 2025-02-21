@@ -54,30 +54,30 @@ footer { font-style: italic;
 	<img src="shopper.jpg" alt="Personal Shopper" width="200%" height="100%">
 </div>
 
-<p> As shown in the photo in the left, my boyfriend and i are super close and we have been together for almost 3 years! </p>
+<p> As shown in the photo on the left, my boyfriend and I are super close, and we have been together for almost 3 years! </p>
 <p> I am a junior in college pursuing a CIS degree to become a data analyst! </p>
-<p> I currently work at H-E-B as a personal shopper, just doing my best to save up for school. </p>
+<p> I work at H-E-B as a personal shopper, doing my best to save up for school. </p>
 
  <main>
- <h3> Intrests and Hobbies!</h3>
-<p> I am interested in making anything with crochet like: </p>
+ <h3> Interests and Hobbies!</h3>
+<p> I am interested in making anything with crochet-like: </p>
 <ol>
 	<li>Ear muffs</li>
 	<li>Gloves</li>
 	<li>Beanies</li>
 	<li>and blankets!</li>
 </ol>
-<p> During covid, I started to crochet to keep myself occupied. Although, ive been slowing down recently, i still find entertainment into making clothing/decor items. </p>
+<p> During COVID, I started to crochet to keep myself occupied. Although, ive been slowing down recently, i still find entertainment into making clothing/decor items. </p>
 <p> I also have a lot of love for cats! I have a cat of my own called "Pepper"!</p>
 
-<img src="pepper.jpeg" alt="Pepper the cat" Width="45%" Height="35%">
+<img src="Pepper.jpeg" alt="Pepper the cat" Width="45%" Height="35%">
 
-<P> Going to school kills alot of my personal time as it turn into my time for homework and notes. However, one hobby that will stick with me is doing nails! </p>
-<p> I do my own nails, saving me hundreds of dollars, every other week. I have always been creative. </p> 
+<P> Going to school kills a lot of my personal time as it turns into my time for homework and notes. However, one hobby that will stick with me is doing nails! </p>
+<p> I do my nails, saving me hundreds of dollars every other week. I have always been creative. </p> 
 
 <div class="containers"> 
-	<img src="nailset1.jpg" alt="example of nails" width="200%" height="80%">
-	<img src="nailset2.jpg" alth="example of second set" width="200%" height="100%">
+	<img src="Nailset1.jpg" alt="example of nails" width="200%" height="80%">
+	<img src="Nailset2.jpg" alt="example of second set" width="200%" height="100%">
 </div>
 
 <footer> 
